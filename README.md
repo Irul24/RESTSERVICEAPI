@@ -27,6 +27,5 @@ Debug > Start (F5)
 - and then you can open http://localhost:5244/swagger/index.html to view UI RESTAPI in Web.
 - for use the API you can access http://localhost:5244/api/Product
 - GET, POST, PUT, & DELETE request method is allowed 
-```
 
 
