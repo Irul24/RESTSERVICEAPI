@@ -26,7 +26,7 @@ Install dependencies for running in local computer:
 
 
 ## Now, you can start a local IIS server by running:
-- Run Debug > Start (F5) (use http)
+- Run Debug > Start (F5) (use http).
 ![image](https://github.com/user-attachments/assets/48dfd6d3-2a0f-4d89-9690-c429a742e44a)
 
 - and then you can open http://localhost:5244/swagger/index.html to view UI RESTAPI in Web.
