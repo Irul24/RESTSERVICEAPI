@@ -1,0 +1,274 @@
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\appsettings.json
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\RESTSERVICEAPI.exe
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\RESTSERVICEAPI.deps.json
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\RESTSERVICEAPI.runtimeconfig.json
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\RESTSERVICEAPI.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\RESTSERVICEAPI.pdb
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\obj\Debug\net8.0\RESTSERVICEAPI.csproj.AssemblyReference.cache
+D:\Mfajri\My Project\RESTSERVICEAPI\obj\Debug\net8.0\RESTSERVICEAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mfajri\My Project\RESTSERVICEAPI\obj\Debug\net8.0\RESTSERVICEAPI.AssemblyInfoInputs.cache
+D:\Mfajri\My Project\RESTSERVICEAPI\obj\Debug\net8.0\RESTSERVICEAPI.AssemblyInfo.cs
+D:\Mfajri\My Project\RESTSERVICEAPI\obj\Debug\net8.0\RESTSERVICEAPI.csproj.CoreCompileInputs.cache
+D:\Mfajri\My Project\RESTSERVICEAPI\obj\Debug\net8.0\RESTSERVICEAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Mfajri\My Project\RESTSERVICEAPI\obj\Debug\net8.0\RESTSERVICEAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Mfajri\My Project\RESTSERVICEAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\Mfajri\My Project\RESTSERVICEAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\Mfajri\My Project\RESTSERVICEAPI\obj\Debug\net8.0\staticwebassets\msbuild.RESTSERVICEAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Mfajri\My Project\RESTSERVICEAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.RESTSERVICEAPI.props
+D:\Mfajri\My Project\RESTSERVICEAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RESTSERVICEAPI.props
+D:\Mfajri\My Project\RESTSERVICEAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RESTSERVICEAPI.props
+D:\Mfajri\My Project\RESTSERVICEAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Mfajri\My Project\RESTSERVICEAPI\obj\Debug\net8.0\scopedcss\bundle\RESTSERVICEAPI.styles.css
+D:\Mfajri\My Project\RESTSERVICEAPI\obj\Debug\net8.0\RESTSERVICEAPI.csproj.CopyComplete
+D:\Mfajri\My Project\RESTSERVICEAPI\obj\Debug\net8.0\RESTSERVICEAPI.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\obj\Debug\net8.0\refint\RESTSERVICEAPI.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\obj\Debug\net8.0\RESTSERVICEAPI.pdb
+D:\Mfajri\My Project\RESTSERVICEAPI\obj\Debug\net8.0\RESTSERVICEAPI.genruntimeconfig.cache
+D:\Mfajri\My Project\RESTSERVICEAPI\obj\Debug\net8.0\ref\RESTSERVICEAPI.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\Humanizer.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\System.Text.Json.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mfajri\My Project\RESTSERVICEAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\appsettings.json
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\RESTSERVICEAPI.exe
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\RESTSERVICEAPI.deps.json
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\RESTSERVICEAPI.runtimeconfig.json
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\RESTSERVICEAPI.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\RESTSERVICEAPI.pdb
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\Humanizer.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\RESTSERVICEAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Project\RESTSERVICEAPI\obj\Debug\net8.0\RESTSERVICEAPI.csproj.AssemblyReference.cache
+D:\Project\RESTSERVICEAPI\obj\Debug\net8.0\RESTSERVICEAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\RESTSERVICEAPI\obj\Debug\net8.0\RESTSERVICEAPI.AssemblyInfoInputs.cache
+D:\Project\RESTSERVICEAPI\obj\Debug\net8.0\RESTSERVICEAPI.AssemblyInfo.cs
+D:\Project\RESTSERVICEAPI\obj\Debug\net8.0\RESTSERVICEAPI.csproj.CoreCompileInputs.cache
+D:\Project\RESTSERVICEAPI\obj\Debug\net8.0\RESTSERVICEAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\RESTSERVICEAPI\obj\Debug\net8.0\RESTSERVICEAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\RESTSERVICEAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\Project\RESTSERVICEAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\Project\RESTSERVICEAPI\obj\Debug\net8.0\staticwebassets\msbuild.RESTSERVICEAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Project\RESTSERVICEAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.RESTSERVICEAPI.props
+D:\Project\RESTSERVICEAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RESTSERVICEAPI.props
+D:\Project\RESTSERVICEAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RESTSERVICEAPI.props
+D:\Project\RESTSERVICEAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Project\RESTSERVICEAPI\obj\Debug\net8.0\scopedcss\bundle\RESTSERVICEAPI.styles.css
+D:\Project\RESTSERVICEAPI\obj\Debug\net8.0\RESTSERV.73764AC9.Up2Date
+D:\Project\RESTSERVICEAPI\obj\Debug\net8.0\RESTSERVICEAPI.dll
+D:\Project\RESTSERVICEAPI\obj\Debug\net8.0\refint\RESTSERVICEAPI.dll
+D:\Project\RESTSERVICEAPI\obj\Debug\net8.0\RESTSERVICEAPI.pdb
+D:\Project\RESTSERVICEAPI\obj\Debug\net8.0\RESTSERVICEAPI.genruntimeconfig.cache
+D:\Project\RESTSERVICEAPI\obj\Debug\net8.0\ref\RESTSERVICEAPI.dll
+D:\Project\RESTSERVICEAPI\obj\Debug\net8.0\RESTSERVICEAPI.sourcelink.json
