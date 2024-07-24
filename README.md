@@ -19,14 +19,14 @@ Install dependencies for running in local computer:
 
 - make sure .Net 8.0 SDK already installed in your computer
 
-- open file .sln in your directory to open project in visual studio
+- open file .sln in your directory to open project in visual studio]
 
-```
 Now, you can start a local IIS server by running:
-
 ```
 Debug > Start (F5)
-and then you can open http://localhost:5244/swagger/index.html to view UI RESTAPI in Web.
+- and then you can open http://localhost:5244/swagger/index.html to view UI RESTAPI in Web.
+- for use the API you can access http://localhost:5244/api/Product
+- GET, POST, PUT, & DELETE request method is allowed 
 ```
 
 
