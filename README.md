@@ -20,7 +20,7 @@ Install dependencies for running in local computer:
 - Open File appsettings.json for setup your connectionstring database.
 ![image](https://github.com/user-attachments/assets/e2652c72-b555-430c-a981-5017a0c58b92)
 
-- file sql for table dbo.product include in the project
+- file sql for table dbo.produk include in the project
 ![image](https://github.com/user-attachments/assets/c4183020-9905-40cd-98a6-92289cc814bc)
 
 
