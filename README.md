@@ -8,13 +8,9 @@
 
 To get a local copy of the code, clone it using git:
 
-```
 git clone https://github.com/Irul24/RESTSERVICEAPI.git
-```
 
 Install dependencies for running in local computer:
-
-````
 - Install Visual Studio Community 2022 or letter
 
 - make sure .Net 8.0 SDK already installed in your computer
